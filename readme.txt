@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 after git add, but not commt, remodify the workspace file
 Creating a new branch is quick.
+edit on dev branch
