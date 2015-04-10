@@ -5,3 +5,4 @@ Git tracks changes of files.
 after git add, but not commt, remodify the workspace file
 Creating a new branch is quick.
 edit on master branch
+edit on dev branch
